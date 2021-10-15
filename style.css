@@ -27,6 +27,7 @@ nav .logo{
   letter-spacing: -1px;
 }
 nav .nav-items{
+  font-family: 'Roboto', sans-serif;
   display: flex;
   flex: 1;
   padding: 0 0 0 40px;
