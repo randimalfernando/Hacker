@@ -4,17 +4,13 @@
   padding: 0;
   outline: none;
   box-sizing: border-box;
-<<<<<<< HEAD
   font-family: "Montserrat", sans-serif;
-=======
-  font-family: 'Papyrus';
->>>>>>> e5f4d7dca6d377aaef0668c86cc0b541625070e5
 }
 body {
   background: #f2f2f2;
 }
 nav {
-  background: #360453;
+  background: #baff19;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
