@@ -10,7 +10,7 @@ body{
   background: #f2f2f2;
 }
 nav{
-  background: #171c24;
+  background: #360453;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -42,7 +42,7 @@ nav .nav-items li a{
   text-decoration: none;
 }
 nav .nav-items li a:hover{
-  color: #00ff73;
+  color: #5f83c7;
 }
 nav form{
   display: flex;
@@ -58,13 +58,13 @@ nav form button{
   padding: 0 15px;
   color: #fff;
   font-size: 17px;
-  background: #00ff00;
+  background: #220246;
   border: none;
   border-radius: 2px;
   cursor: pointer;
 }
 nav form button:hover{
-  background: #00e673;
+  background: #220246;
 }
 nav .menu-icon,
 nav .cancel-icon,
